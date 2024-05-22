@@ -10,4 +10,5 @@ A final year robotics student with a keen interest in computer vision and embedd
 - Agile practitioner with experience as Scrum Master.
 
 ## Projects
-[Silent Steps](silent_steps.md)
+[Silent Steps](projects/silent_steps.md)
+[Serial Unity Package](projects/sup.md)
