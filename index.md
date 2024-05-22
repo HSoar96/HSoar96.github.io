@@ -9,6 +9,6 @@ A final year robotics student with a keen interest in computer vision and embedd
 - Use of Computer vision systems including TensorFlow, OpenCV, and PyTorch.
 - Agile practitioner with experience as Scrum Master.
 
-## Projects
-[Silent Steps](projects/silent_steps.md)
-[Serial Unity Package](projects/sup.md)
+## Notable Projects
+- [Silent Steps](projects/silent_steps.md)
+- [Serial Unity Package](projects/sup.md)
