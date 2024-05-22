@@ -10,4 +10,4 @@ The repo can be found [here](https://github.com/HSoar96/Silent-Steps).
 
 Please click the image below to see an example video.
 
-[![Silent Steps - YouTube](images/silent_steps/top.jpg)](https://www.youtube.com/shorts/DCFIkv1ka5A)
+[![Silent Steps - YouTube](../images/silent_steps/top.jpg)](https://www.youtube.com/shorts/DCFIkv1ka5A)
